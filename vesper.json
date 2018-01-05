@@ -1,0 +1,12 @@
+{
+    "drink" : "vesper",
+    "no_of_drinks" : 3,
+    "no_of_operations" : 4,
+    "ice" : 0,
+    "mode" : "mix",
+    "vesper": [
+      {"amount": 4,         "ingredient": "gin"},
+      {"amount": 5,       "ingredient": "vodka"},
+      {"amount": 3,"ingredient": "lilletblonde"}
+              ]
+}
